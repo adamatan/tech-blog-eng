@@ -1,41 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Adam Matan</title><link href="https://adammatan.com/" rel="alternate"></link><link href="https://adammatan.com/feeds/all.atom.xml" rel="self"></link><id>https://adammatan.com/</id><updated>2016-01-03T10:20:00+02:00</updated><entry><title>Python background processes in Ubuntu</title><link href="https://adammatan.com/python-background-processes-in-ubuntu.html" rel="alternate"></link><updated>2016-01-03T10:20:00+02:00</updated><author><name>Adam Matan</name></author><id>tag:adammatan.com,2016-01-03:python-background-processes-in-ubuntu.html</id><summary type="html">&lt;div class="section" id="introduction"&gt;
-&lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Running a process in the background is a very useful technique in software development in the Linux world. Such processes are used in a wide variety of scenarios, ranging from event processing through network polling to system monitoring.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Common use cases might be:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;Consuming message from a queue&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;Monitoring a site by making periodic HTTP calls&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;For example, one might want to make an HTTP GET call to a resource every minute and send an email notification in case of inavailability, or log the system memory or disk usage every now and&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-easy-solution-nohup"&gt;
-&lt;h2&gt;The Easy Solution - &lt;tt class="docutils literal"&gt;nohup&lt;/tt&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-interactive-solution-screen"&gt;
-&lt;h2&gt;The Interactive Solution - &lt;tt class="docutils literal"&gt;screen&lt;/tt&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-robust-solution-upstart"&gt;
-&lt;h2&gt;The Robust Solution - &lt;tt class="docutils literal"&gt;upstart&lt;/tt&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="best-practices"&gt;
-&lt;h2&gt;Best practices&lt;/h2&gt;
-&lt;div class="section" id="virtual-environments"&gt;
-&lt;h3&gt;Virtual environments&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nb"&gt;cd&lt;/span&gt; ~
-virtualenv background_process_env
-&lt;span class="nb"&gt;source &lt;/span&gt;background_process_env/bin/activate
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="monitoring"&gt;
-&lt;h3&gt;Monitoring&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div class="section" id="logging"&gt;
-&lt;h3&gt;Logging&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</summary><category term="Ubuntu"></category><category term="Python"></category><category term="Upstart"></category><category term="Tutorial"></category><category term="nohup"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adam Matan</title><link href="https://adammatan.com/" rel="alternate"></link><link href="https://adammatan.com/feeds/all.atom.xml" rel="self"></link><id>https://adammatan.com/</id><updated>2016-02-15T23:20:00+02:00</updated><entry><title>"So, What may bring you to work for Acme Corporation?"</title><link href="https://adammatan.com/so-what-may-bring-you-to-work-for-acme-corporation.html" rel="alternate"></link><updated>2016-02-15T23:20:00+02:00</updated><author><name>Adam Matan</name></author><id>tag:adammatan.com,2016-02-15:so-what-may-bring-you-to-work-for-acme-corporation.html</id><summary type="html">&lt;p&gt;I have been recently contacted by a recruiter from a well-known global tech company in Linkedin:&lt;/p&gt;
+&lt;blockquote&gt;
+I am contacting you today since your LinkedIn profile caught my attention while searching for Cloud Architect at Acme Corporation.&lt;/blockquote&gt;
+&lt;p&gt;I politely declined the offer:&lt;/p&gt;
+&lt;blockquote&gt;
+Thanks for reaching out. This isn't a good fit for me now, but let's keep in touch.&lt;/blockquote&gt;
+</summary><category term="Hiring"></category><category term="Recruiting"></category><category term="HR"></category><category term="Motivation"></category></entry></feed>

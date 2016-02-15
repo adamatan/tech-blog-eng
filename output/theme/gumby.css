@@ -205,7 +205,7 @@ h6 {
 .subhead {
   color: #777;
   font-weight: normal;
-  margin-bottom: 20px;
+  margin-bottom: 90px;
 }
 
 /*=====================================================
@@ -256,7 +256,7 @@ ul, ol {
 ul {
   list-style: none outside;
   list-style-type: disc;
-  padding-left: 200px;
+  padding-left: 25px;
 }
 
 ol {
