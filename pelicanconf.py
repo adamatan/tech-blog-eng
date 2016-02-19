@@ -4,11 +4,15 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Adam Matan'
 SITENAME = u'Adam Matan'
-#SITEURL = 'https://adammatan.com'
+# SITEURL = 'https://adammatan.com'
 SITESUBTITLE = ''
 THEME = 'gum'
+DISQUS_SITENAME = "atb"
 
 PATH = 'content'
+
+STATIC_PATHS = ['images']
+GOOGLE_ANALYTICS = 'UA-74046927-1'
 
 TIMEZONE = 'Asia/Jerusalem'
 
@@ -28,8 +32,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+            ('Stackoverflow', 'stackoverflow.com/users/51197/adam-matan'),
+            ('github',        'https://github.com/adamatan'),
+            ('@adam_matan',   'https://twitter.com/adam_matan'),
+          )
 
 DEFAULT_PAGINATION = 10
 

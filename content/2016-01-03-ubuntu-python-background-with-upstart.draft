@@ -1,0 +1,50 @@
+Python background processes in Ubuntu
+#####################################
+
+:date: 2016-01-03 10:20
+:tags: Ubuntu, Python, Upstart, Tutorial, nohup
+:category: yeah
+:authors: Adam Matan
+:summary: Running and monitoring background Python processes in Ubuntu.
+
+Introduction
+------------
+Background execution of processes is a powerful tool when developing under in Linux systems. Such processes are used in a wide variety of scenarios, ranging from event processing through network polling to system monitoring.
+
+**Where do I use background processes?**
+
+- **Queue consumers**. The background process waits for new message from a like `RabbitMQ <https://en.wikipedia.org/wiki/RabbitMQ>`_, and
+- Periodic HTTP calls to monitor API health.
+- Simple
+
+xxx
+~~~
+
+The Easy Solution - ``nohup``
+-----------------------------
+
+The Interactive Solution - ``screen``
+-------------------------------------
+
+The Robust Solution - ``upstart``
+---------------------------------
+
+
+Best practices
+--------------
+
+Virtual environments
+~~~~~~~~~~~~~~~~~~~~
+
+.. code-block:: bash
+
+   cd ~
+   virtualenv background_process_env
+   source background_process_env/bin/activate
+
+
+Monitoring
+~~~~~~~~~~
+
+Logging
+~~~~~~~
