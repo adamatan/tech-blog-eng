@@ -44,7 +44,7 @@ when I'll be looking.
 So, What attracts me in a tech workplace
 ----------------------------------------
 
-The essence is **People** (With whom?), **Tech** (How?) and **Cause** (For what?).
+The essence is **People** (With whom?), **Tech** (How?) and **Cause** (What for?).
 
 **People**:
 
