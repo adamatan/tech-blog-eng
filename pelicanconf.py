@@ -12,7 +12,8 @@ DISQUS_SITENAME = "atb"
 PATH = 'content'
 
 STATIC_PATHS = ['images']
-GOOGLE_ANALYTICS = 'UA-74046927-1'
+GOOGLE_ANALYTICS_ID = 'UA-74046927-1'
+TWITTER_USERNAME = 'adam_matan'
 
 TIMEZONE = 'Asia/Jerusalem'
 

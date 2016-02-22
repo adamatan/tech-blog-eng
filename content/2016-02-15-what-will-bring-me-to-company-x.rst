@@ -11,7 +11,7 @@
    :target: https://commons.wikimedia.org/wiki/File:LinkedIn_Headquarters_Mountain_View.jpg
    :alt: By LPS.1 (Own work) [CC0], via Wikimedia Commons
 
-I have been recently Linkedin-contacted by `Einat Frish <https://il.linkedin.com/in/einatfrish>`_, a recruiter from a Cisco:
+I have been recently Linkedin-contacted by `Einat Frish <https://il.linkedin.com/in/einatfrish>`_, a recruiter from Cisco:
 
     I hope you are doing well, I am contacting you today since your LinkedIn profile caught my attention while searching for Sr. SW Cloud Architect for Innovation team at Cisco. ...
 
